@@ -1,3 +1,3 @@
 # learnGitHub
 created for learning and using github
-学习学习
+我来学习
